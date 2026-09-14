@@ -65,11 +65,23 @@
 <br clear="both" />
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaansari05&show_icons=true&locale=en&layout=compact" alt="top languages" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=usamaansari05&show_icons=true&locale=en" alt="github stats" />
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=usamaansari05" alt="github streak" />
+  <img src="https://streak-stats.demolab.com/?user=usamaansari05&theme=default&border_radius=6&card_width=500" alt="github streak" />
 </p>
+
+<!--
+  ⚠️ The two cards below are commented out on purpose.
+  github-readme-stats.vercel.app (the shared public instance) is frequently down
+  with 503 DEPLOYMENT_PAUSED, which is why they rendered as broken images.
+
+  To bring them back:
+    1. Self-host your own copy on Vercel (fork anuraghazra/github-readme-stats)
+    2. Replace YOUR-APP-NAME below with your Vercel domain
+    3. Delete this comment block's opening and closing markers
+
+<p align="center">
+  <img height="165" src="https://YOUR-APP-NAME.vercel.app/api/top-langs?username=usamaansari05&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img height="165" src="https://YOUR-APP-NAME.vercel.app/api?username=usamaansari05&show_icons=true&locale=en" alt="github stats" />
+</p>
+-->
